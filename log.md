@@ -8,4 +8,14 @@
 
 **Link(s) to work**
 1. [Portfolio Project](https://codepen.io/WillMcIntosh/full/XzQRVv/)
-2. [CSS and JS clock] (https://github.com/WillMcIntosh/JavaScript30/tree/master/JS-CSS-Clock)
+2. [CSS and JS clock](https://github.com/WillMcIntosh/JavaScript30/tree/master/JS-CSS-Clock)
+
+### Day 2: December 6, Wednesday
+
+**Today's Progress**: The internet was down but I managed to watch some Shiffman Coding Train videos and have a good time being confused about recursion while playing in p5.js with fractals. 
+
+**Thoughts**: I think I made a few infinite loops and still didn't figure out how to stop drawing. I think my first tree was continuously drawing branches over and over. I think I understand the basics of recursion but I really want to be able to randomize the angle of branches and change thickness. 
+
+**Link(s) to work**
+1. [Recursive Fractal Tree](https://github.com/WillMcIntosh/CodingTrain/tree/master/fractals)
+2. [Object Oriented Fractal Tree](https://github.com/WillMcIntosh/CodingTrain/tree/master/OOPfractals)
