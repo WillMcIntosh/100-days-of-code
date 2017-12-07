@@ -19,3 +19,11 @@
 **Link(s) to work**
 1. [Recursive Fractal Tree](https://github.com/WillMcIntosh/CodingTrain/tree/master/fractals)
 2. [Object Oriented Fractal Tree](https://github.com/WillMcIntosh/CodingTrain/tree/master/OOPfractals)
+
+### Day 3: December 7, Thurssday
+
+**Today's Progress**: Another day without internet, which is apparently my lifeline to any and all knowledge. I watched a few Coding Train videos on my phone while I waited for Comcast. Hopefully I will have an update with some work later tonight.
+
+**Thoughts**: I do think I gained valuable knowledge of ES6 arrow functions and also the `this` keyword in JavaScript, so the day wasn't totally a wash. However, I want to play around maybe in JS tonight and implement what I learned today to show progress.
+
+**Link(s) to work**
