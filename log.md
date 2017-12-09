@@ -27,3 +27,14 @@
 **Thoughts**: I do think I gained valuable knowledge of ES6 arrow functions and also the `this` keyword in JavaScript, so the day wasn't totally a wash. However, I want to play around maybe in JS tonight and implement what I learned today to show progress.
 
 **Link(s) to work**
+
+### Day 4: December 8, Friday
+
+**Today's Progress**: The internet is back! I started the day off doing the JS30 exercise on CSS variables, then reviewed some Python. I then went through the FCC basic algorithms that I had solved in JS and did them again in Python. 
+
+**Thoughts**: Using CSS variables is interesting. I could do this to make some interactive parts of web pages without using much JS at all. Unlike SASS which defines CSS variables at compile time that cannot be changed later, changing the variables in JS allows them to be changed wherever they are referenced on the page.
+
+**Link(s) to work**
+1. [Basic Algorithms](https://github.com/WillMcIntosh/Algorithm-Practice/tree/master/Python)
+2. [JS30 CSS variables](https://github.com/WillMcIntosh/JavaScript30/tree/master/CSS-Variables)
+
