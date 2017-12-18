@@ -54,7 +54,7 @@
 **Thoughts**: I learned a little about the ways React can handle styling. We went with style objects that we just call into the few pages that needed unique styles.
 
 **Link(s) to work**
-1. [React Styles](https://github.com/sashamaryl/cliff-effects/pull/4)
+
 
 ### Day 7: December 11, Monday
 
@@ -65,3 +65,65 @@
 **Link(s) to work**
 1. [JS 30](https://javascript30.com/)
 
+### Day 8: December 12, Tuesday
+
+**Today's Progress**: Mostly spent today learning PHP, although I took a little time to go over the styling again for Code for Boston. 
+
+**Thoughts**: PHP is interesting and I look forward to being able to deliver a working prototype of a sign up form soon.
+
+**Link(s) to work**
+
+### Day 9: December 13, Wednesday
+
+**Today's Progress**: More PHP, and finally submitted my PR for inline styling removal.
+
+**Thoughts**: Not the most productive day. I feel like I spent most of my time searching for solutions today.
+
+**Link(s) to work**
+1. [React Styles](https://github.com/sashamaryl/cliff-effects/pull/4)
+
+### Day 10: December 14, Thursday
+
+**Today's Progress**: Today I did the HackerRank World CodeSprint 12. I finished the easy challenge but couldn't get any of the medium ones. I felt like I had good solutions but I kept timing out. 
+
+**Thoughts**: I really think I need to learn Data Structures and Algorithms to be able to pass these challenges with more than just lists and arrays.
+
+**Link(s) to work**
+1. [Hacker Rank](https://www.hackerrank.com/contests/world-codesprint-12/challenges)
+
+### Day 11: December 15, Friday
+
+**Today's Progress**: More attempts at HackerRank World CodeSprint 12. 
+
+**Thoughts**: I've got to be missing something really fundamental.
+
+**Link(s) to work**
+1. [Hacker Rank](https://www.hackerrank.com/contests/world-codesprint-12/challenges)
+
+### Day 12: December 16, Saturday
+
+**Today's Progress**: LeetCode Weekly Contest 63
+
+**Thoughts**: I did alright. I got one of the challenges and then again had the idea right on another but couldn't quite get it to solve correctly.
+
+**Link(s) to work**
+1. [LeetCode](https://leetcode.com/contest/weekly-contest-by-app-academy)
+
+### Day 13: December 17, Sunday
+
+**Today's Progress**: React for Beginners with Wes Bos.
+
+**Thoughts**: I decided I really need to know React well so I purchased the course and dove in. I'm liking it so far.
+
+**Link(s) to work**
+1. [React For Beginners](https://reactforbeginners.com/)
+
+### Day 14: December 18, Monday
+
+**Today's Progress**: React for Beginners with Wes Bos, again. Reviewed LeetCode problems from contest.
+
+**Thoughts**: I really overcomplicated one of the problems that I couldn't get right. Learned about React components and added a few things to my page.
+
+**Link(s) to work**
+1. [React For Beginners](https://reactforbeginners.com/)
+2. [LeetCode](https://leetcode.com/contest/weekly-contest-by-app-academy)
