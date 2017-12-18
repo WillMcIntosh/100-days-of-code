@@ -56,3 +56,12 @@
 **Link(s) to work**
 1. [React Styles](https://github.com/sashamaryl/cliff-effects/pull/4)
 
+### Day 7: December 11, Monday
+
+**Today's Progress**: Playing around in JS30 after doing the Array Cardio lecture. 
+
+**Thoughts**: I feel like this helped me to understand objects and arrays in JS much better.
+
+**Link(s) to work**
+1. [JS 30](https://javascript30.com/)
+
