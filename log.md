@@ -38,3 +38,12 @@
 1. [Basic Algorithms](https://github.com/WillMcIntosh/Algorithm-Practice/tree/master/Python)
 2. [JS30 CSS variables](https://github.com/WillMcIntosh/JavaScript30/tree/master/CSS-Variables)
 
+### Day 5: December 9, Saturday
+
+**Today's Progress**: Leetcode practice problems in python. 
+
+**Thoughts**: It took me a while to refamiliarize myself with python syntax, and I also think I need to review data structures because I'm not as comfortable as I'd like to be yet.
+
+**Link(s) to work**
+1. [Leet Code](https://leetcode.com/problems/two-sum/description/)
+
