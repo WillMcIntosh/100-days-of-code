@@ -47,3 +47,12 @@
 **Link(s) to work**
 1. [Leet Code](https://leetcode.com/problems/two-sum/description/)
 
+### Day 6: December 10, Sunday
+
+**Today's Progress**: Worked to remove inline styling from React App for Code for Boston.
+
+**Thoughts**: I learned a little about the ways React can handle styling. We went with style objects that we just call into the few pages that needed unique styles.
+
+**Link(s) to work**
+1. [React Styles](https://github.com/sashamaryl/cliff-effects/pull/4)
+
